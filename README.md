@@ -10,3 +10,4 @@
 | Assignment - 06   | 1. Sum of subset to 0/1 knapsack                     | [Link](./Assignment-06/) |
 | Assignment - 07   | 1. Finite automata 2. Rabin karp                     | [Link](./Assignment-07/) |
 | Assignment - 08   | 1. KMP 2. Closet pair of points                      | [Link](./Assignment-08/) |
+| Assignment - 09   | 1. Intersection of Line segment 2. Graham Scan  | [Link](./Assignment-09/) |

@@ -13,4 +13,4 @@
 | Assignment - 09   | 1. Intersection of Line segment 2. Graham Scan       | [Link](./Assignment-09/) |
 | Assignment - 10   | 1. Greedy MVC 2. Randomized MVC                      | [Link](./Assignment-10/) |
 | Assignment - 11   | 1. Simplex                                           | [Link](./Assignment-11/) |
-| Assignment - 12   |                                                      | [Link](./Assignment-12/) |
+| Assignment - 12   |  Completed                                           | [Link](./Assignment-12/) |

@@ -2,6 +2,7 @@
 #include <iostream>
 #include <ctime>
 #include <stdlib.h>
+#include <bits/stdc++.h>
 
 using namespace std;
 
